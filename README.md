@@ -1,6 +1,6 @@
 # Malody-Mirror
 
-[English](https://github.com/brokenpoems/Malody-Mirror) |[简体中文](https://github.com/brokenpoems/Malody-Mirror/README_zh-cn.md)
+[English](https://github.com/brokenpoems/Malody-Mirror) |[简体中文](https://github.com/brokenpoems/Malody-Mirror/blob/main/README_zh-cn.md)
 
 A Download Mirror for Malody
 
