@@ -1,6 +1,6 @@
 # Malody-Mirror
 
-[English](https://github.com/brokenpoems/Malody-Mirror)|简体中文
+[English](README.md)|简体中文
 
 一个Malody安装包的下载镜像
 
