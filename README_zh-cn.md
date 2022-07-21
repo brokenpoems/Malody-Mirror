@@ -14,4 +14,4 @@
 
 [GitHub](https://github.com/brokenpoems/Malody-Mirror)
 
-ps:Malody V 5.0.1 由于安装包超过GitHub限额所以压缩请下载自行解压
+ps:Malody v5.0.1&v5.0.3 由于安装包超过GitHub限额所以压缩请下载自行解压
