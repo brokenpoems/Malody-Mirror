@@ -14,4 +14,4 @@ If you have any problem,please open a [New Issue](https://github.com/brokenpoems
 
 [GitHub](https://github.com/brokenpoems/Malody-Mirror)
 
-ps:Malody V 5.0.1. The apk file is over GitHub's limitation, so please download zip file and Unzip it
+ps:Malody v5.0.1&v5.0.3. The apk file is over GitHub's limitation, so please download zip file and Unzip it
